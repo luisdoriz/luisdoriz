@@ -21,5 +21,4 @@ Hello, my name is Luis Doriz and I am currently data engineer leader at [Nowport
 - 📫 How to reach me: ldorizsalazar@gmail.com
 
 ![Luis' Github Stats](https://github-readme-stats.vercel.app/api?username=luisdoriz&count_private=true&show_icons=true&include_all_commits=true)
-[![Luis' Github Stats](https://github-readme-stats.vercel.app/api?username=luisdoriz)](https://github.com/luisdoriz)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisdoriz&hide=TeX&layout=compact)
